@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="logo" width="300">
+</div>
 <h2 align="center">Hi 👋, It's Me Najeeb Ullah</h2>
 <h4 align="center">💻 Passionate Software Engineer from Pakistan 🇵🇰 |AI Explorer 🤖 & Creator 🚀|BSSE 🎓|Master's @ NTPU 🎯|Smart Healthcare Enthusiast ❤️‍🩹|Aspiring Data Scientist 📊|Python Pro 🐍|Obsessed with AI, ML & DL 🌐|Building Tech for a Better Tomorrow 🌟</h4>
 
