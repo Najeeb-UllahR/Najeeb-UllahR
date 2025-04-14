@@ -20,15 +20,20 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/najeeb_ullahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="najeeb_ullahr" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/najeeb-ullah" target="blank">
+  <a href="https://twitter.com/najeeb_ullahr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/nur9" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://fb.com/najeebullahrasheed" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100057655940280&sk=about_details" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/its_nur98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_nur98" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/its_nur98/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
